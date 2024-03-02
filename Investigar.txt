@@ -3,3 +3,17 @@ current
 click()
 URL 
 createObjectURL 
+.files
+new
+FileReader()
+ReadAsDataURL()
+onload
+onloadend
+result
+getContext()
+drawImage()
+File()
+Headers()
+.append()
+FormData()
+.then()
