@@ -1,14 +1,14 @@
-useRef()
-current
+useRef() // se usa para crear estados las cuales no se van a renderizar
+current //esta relacionado con useRef y guarda los estados del useRef
 click()
 URL 
 createObjectURL 
 .files
-new
-FileReader()
+new // se usa como una especie de metodo constructor
+FileReader() //se utiliza para leer datos, comopor ejemplo csv
 ReadAsDataURL()
-onload
-onloadend
+onload // se usa cuando despues de que un recurso a terminado de cargar
+onloadend // se utiliza cuando un recurso a terminado de cargar, pero no discrimina si la carga fue exitosa o no.
 result
 getContext()
 drawImage()
